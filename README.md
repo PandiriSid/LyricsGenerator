@@ -74,3 +74,6 @@ python manage.py runserver
 Now open your browser and go to this address
 
 http://127.0.0.1:8000
+
+
+![MicrosoftTeams-image](https://github.com/PandiriSid/LyricsGenerator/assets/34942083/a4b4179b-b561-44ec-93a7-49022a246122)
