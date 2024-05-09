@@ -6,7 +6,7 @@ This project is a Lyrics Generator that uses gpt-2 as a base model and uses tran
 
 ## Note
 
-You need to have the Model file in the LyricsGenerator sub folder. The model file is very large to uplaod in the Github and hence is at the drive location "" and need to install the packages of the requirements.txt file into your local system.
+You need to have the Model file in the LyricsGenerator sub folder. The model file is very large to uplaod in the Github and hence is at the drive location "https://drive.google.com/file/d/1ukB3FA9YVigpbZ1UgpfYMH7urJrQHw2C/view?usp=sharing" and need to install the packages of the requirements.txt file into your local system.
 
 ## Technologies Used:
 
@@ -75,5 +75,9 @@ Now open your browser and go to this address
 
 http://127.0.0.1:8000
 
+## Website Outputs
+![image_123650291](https://github.com/PandiriSid/LyricsGenerator/assets/34942083/cb388d1b-6448-45d8-bbf9-fb0c6c6776d6)
+
+![image_123650291 (1)](https://github.com/PandiriSid/LyricsGenerator/assets/34942083/b12555db-9d6a-4e8f-b050-e942dc213b73)
 
 
