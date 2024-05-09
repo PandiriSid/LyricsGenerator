@@ -78,7 +78,9 @@ http://127.0.0.1:8000
 ## Website Outputs
 
 ![IMG_9875](https://github.com/PandiriSid/LyricsGenerator/assets/34942083/2a935a3d-83e8-4bd9-847f-958d9ec05ea0)
+
 ![IMG_2439](https://github.com/PandiriSid/LyricsGenerator/assets/34942083/69c69ae1-b23c-4616-b354-033a91e30aaa)
+
 ![IMG_7293](https://github.com/PandiriSid/LyricsGenerator/assets/34942083/084179d2-e39d-4004-b058-aba50c794772)
 
 ![image_123650291 (1)](https://github.com/PandiriSid/LyricsGenerator/assets/34942083/b12555db-9d6a-4e8f-b050-e942dc213b73)
