@@ -1,12 +1,12 @@
 
 # Lyrics Generator
 
-This project is a Lyrics Generator that uses gpt-2 as a base model and uses transfer learning and deep learning techniques to match the style or genre of an artist. This project aims to combine elements of machine learning, NLP, and music analysis to uncover patterns and insights within song lyrics. This could help in assisting or inspiring songwriters for music composition or poetry.
+This project is a Lyrics Generator that uses GPT-2 as a base model and uses transfer learning and deep learning techniques to match the style or genre of an artist. This project aims to combine elements of machine learning, NLP, and music analysis to uncover patterns and insights within song lyrics. This could help in assisting or inspiring songwriters for music composition or poetry.
 
 
 ## Note
 
-You need to have the Model file in the LyricsGenerator sub folder. The model file is very large to uplaod in the Github and hence is at the drive location "https://drive.google.com/file/d/1ukB3FA9YVigpbZ1UgpfYMH7urJrQHw2C/view?usp=sharing" and need to install the packages of the requirements.txt file into your local system.
+You need to have the Model file in the LyricsGenerator sub folder. The model file is very large to upload to Github and hence is at the drive location "https://drive.google.com/file/d/1ukB3FA9YVigpbZ1UgpfYMH7urJrQHw2C/view?usp=sharing". Install the packages of the requirements.txt file into your local system.
 
 ## Technologies Used:
 
