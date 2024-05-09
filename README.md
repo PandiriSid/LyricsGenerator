@@ -79,7 +79,6 @@ http://127.0.0.1:8000
 
 ![IMG_9875](https://github.com/PandiriSid/LyricsGenerator/assets/34942083/2a935a3d-83e8-4bd9-847f-958d9ec05ea0)
 
-![image_123650291](https://github.com/PandiriSid/LyricsGenerator/assets/34942083/cb388d1b-6448-45d8-bbf9-fb0c6c6776d6)
 
 ![image_123650291 (1)](https://github.com/PandiriSid/LyricsGenerator/assets/34942083/b12555db-9d6a-4e8f-b050-e942dc213b73)
 
