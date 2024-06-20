@@ -1,4 +1,0 @@
-{
-  "src": "/(.*)",
-  "dest": "/Lyrics_Generator/wsgi.py"
-}
